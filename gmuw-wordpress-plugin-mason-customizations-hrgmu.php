@@ -39,9 +39,8 @@ function gmuw_customizations_hrgmu_restrict_access_to_urls_by_pattern(){
 
 	//add patterns to array
 
-	//faculty/staff experience survey page
-	//only matches URLs under the /faculty-staff-experience-survey/ path, not that page itself, which serves as a landing page
-	$restricted_url_patterns[]='/^faculty-staff-experience-survey\/.+/i';
+	//faculty/staff experience survey results page
+	$restricted_url_patterns[]='/^faculty-staff-experience-survey\/surveyresults/i';
 	//performance evaluation resources page
 	$restricted_url_patterns[]='/^performance-evaluations\/performance-evaluation-resources/i';
 

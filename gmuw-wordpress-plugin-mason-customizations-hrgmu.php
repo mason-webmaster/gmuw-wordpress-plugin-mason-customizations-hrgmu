@@ -9,7 +9,7 @@
  * Author:            Mason Web Administration
  * Plugin URI:        https://github.com/mason-webmaster/gmuw-wordpress-plugin-mason-customizations-hrgmu
  * Description:       Mason WordPress Plugin to implement custom functionality for this website
- * Version:           1.0
+ * Version:           1.0.1
  */
 
 
